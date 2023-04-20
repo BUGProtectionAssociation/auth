@@ -6,7 +6,7 @@ Other website:[BLOG](https://bugprotectionassociation.wordpress.com/)  [ITCH](ht
 BUG is good, but...
 
 
-Somebody are beating them!
+Somebody are beating them!<a href="https://emoji.gg/emoji/6027-lmaocry"><img src="https://cdn3.emoji.gg/emojis/6027-lmaocry.png" width="64px" height="64px" alt="lmaocry"></a>
 
 
 Oh, that is a bad news
