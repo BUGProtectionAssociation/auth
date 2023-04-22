@@ -3,7 +3,28 @@
 <head>
 <title>BUG的命也是命</title>
 </head>
-<style>
+
+
+<body>
+<div id="container" style="width:100%">
+<div id="header" style="background-color:#DDDDDD;">
+	<h1 align="center">Bug Lives Matter!</h1>
+	<img src='bugp.png'  id='BgImg' width="128" height="128"/></div>
+ 
+<div id="menu" style="background-color:#FFFFFF;height:100%;width:10%;float:left;">
+<b>BUG</b><br>
+使命<br>
+工具<br>
+启动<br>
+模式<br>
+JavaScript</div>
+ 
+<div id="content" style="background-color:#EEEEEE;height:100%;width:90%;float:left;">
+<canvas id='canvas' ></canvas>
+<p>BUG is very good, but...</p>
+<p>Sure, somebody are beating them</p>
+<p>Why?</p>
+	<style>
     body {
         margin: 0
     }
@@ -100,26 +121,7 @@ void mainImage( out vec4 fragColor, in vec2 fragCoord )
 <script>
     kokomi.ShaderToyElement.register();
 </script>
-
-<body>
-<div id="container" style="width:50%">
-<div id="header" style="background-color:#DDDDDD;">
-	<h1 align="center">Bug Lives Matter!</h1>
-	<img src='bugp.png'  id='BgImg' width="128" height="128"/></div>
- 
-<div id="menu" style="background-color:#FFFFFF;height:100%;width:10%;float:left;">
-<b>BUG</b><br>
-使命<br>
-工具<br>
-启动<br>
-模式<br>
-JavaScript</div>
- 
-<div id="content" style="background-color:#EEEEEE;height:100%;width:90%;float:left;">
-<canvas id='canvas' ></canvas>
-<p>BUG is very good, but...</p>
-<p>Sure, somebody are beating them</p>
-<p>Why?</p></div>
+	</div>
  
 <div id="footer" style="background-color:#FFFFFF;clear:both;text-align:center;">
 <h3 style="text-align:center">other website</h3>
